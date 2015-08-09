@@ -1,0 +1,9 @@
+#container {
+    width: 960px;
+}
+
+#container > div {
+    display: inline-block;
+    border: 1px solid #8AC007;
+    margin: 1px 1px 0px 1px;
+}
